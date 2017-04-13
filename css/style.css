@@ -1,0 +1,61 @@
+html {
+  font-family: Helvetica;
+  color: #291C88;
+
+  }
+
+body {
+  background-image: url("../img/diamond_upholstery.png");
+  }
+
+header {
+  }
+
+main {
+  background-image: url("../img/weave.png");
+  }
+
+footer {
+  background-image: url("../img/gplaypattern.png");
+  }
+
+h1 {
+
+  }
+
+h2 {
+
+  }
+
+h3 {
+
+  }
+
+p {
+
+  }
+
+li {
+
+  }
+
+
+
+footer p{
+
+
+  }
+
+.map {
+  display: inline-block;
+  box-sizing:border-box;
+  vertical-align: top;
+  width: 50%
+}
+
+.image {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 50%;
+  margin: auto;
+}
